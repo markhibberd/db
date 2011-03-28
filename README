@@ -1,0 +1,10 @@
+NAME
+        db - algebraic data type example using jdbc
+
+DESCRIPTION
+	Very primitive example of using algebraic data types
+	for database access.
+
+STATE
+        The `db` library is for demonstration purposes only.
+
